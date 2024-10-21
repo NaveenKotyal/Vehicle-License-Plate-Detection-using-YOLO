@@ -32,12 +32,15 @@ Web Framework: Streamlit
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 
-## Screen Shot
-![1](https://github.com/user-attachments/assets/a8b590c2-66a4-4ac0-ace8-7c455c3a84ab)
+## Working
 
 
-![2](https://github.com/user-attachments/assets/028292c7-d578-470a-9a67-7a843724a5dc)
 
+![3](https://github.com/user-attachments/assets/0bccd74c-58aa-478d-9439-4089220e1d38)
+
+![6](https://github.com/user-attachments/assets/cb2e1bea-4504-4434-981a-20d0bd18f0ca)
+
+![7](https://github.com/user-attachments/assets/23b260d8-b769-4d83-9e6c-74d9a69a7316)
 
 
 
@@ -69,7 +72,5 @@ Enhanced Scalability: Further reduce inference time and improve model accuracy.
 YOLO
 Flask
 Open-source datasets for testing and training
-## Screenshots
 
-![App Screenshot](https://www.google.com/imgres?q=license%20plate%20detection%20images&imgurl=https%3A%2F%2Fmobisoftinfotech.com%2Fresources%2Fwp-content%2Fuploads%2F2022%2F02%2Fog-Number-Plate-Detection.png&imgrefurl=https%3A%2F%2Fmobisoftinfotech.com%2Fresources%2Fblog%2Fvehicle-number-plate-detection-mechanism-using-computer-vision&docid=QM7tBU5WXJ2-AM&tbnid=XH9rSFPxegIfxM&vet=12ahUKEwjg3b3B656JAxUJzjgGHTh4H40QM3oECGIQAA..i&w=1000&h=525&hcb=2&ved=2ahUKEwjg3b3B656JAxUJzjgGHTh4H40QM3oECGIQAA)
 
