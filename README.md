@@ -32,6 +32,16 @@ Web Framework: Streamlit
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 
+## Screen Shot
+![1](https://github.com/user-attachments/assets/a8b590c2-66a4-4ac0-ace8-7c455c3a84ab)
+
+
+![2](https://github.com/user-attachments/assets/028292c7-d578-470a-9a67-7a843724a5dc)
+
+
+
+
+
 ## 📊 Results
 
 Accuracy: 95%
