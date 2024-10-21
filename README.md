@@ -38,9 +38,11 @@ Web Framework: Streamlit
 
 ![3](https://github.com/user-attachments/assets/0bccd74c-58aa-478d-9439-4089220e1d38)
 
-![6](https://github.com/user-attachments/assets/cb2e1bea-4504-4434-981a-20d0bd18f0ca)
+![8](https://github.com/user-attachments/assets/7740e9d1-76a3-482d-8dac-e5ce347845a6)
 
-![7](https://github.com/user-attachments/assets/23b260d8-b769-4d83-9e6c-74d9a69a7316)
+![9](https://github.com/user-attachments/assets/bb47123c-db9a-4f8b-8b56-1c9776166938)
+
+
 
 
 
