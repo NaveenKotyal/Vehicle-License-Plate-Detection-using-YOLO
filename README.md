@@ -1,7 +1,7 @@
 
 # Automatic License Plate Detection System
 
-This repository contains an implementation of an Automatic License Plate Detection System using PyTorch, YOLO (You Only Look Once), and Flask. The system is designed to accurately and efficiently detect license plates in real-time across various conditions, offering reliable performance for diverse use cases.
+This repository contains an implementation of an Automatic License Plate Detection System using PyTorch, YOLO (You Only Look Once), and Streamlit. The system is designed to accurately and efficiently detect license plates in real-time across various conditions, offering reliable performance for diverse use cases.
 
 
 ## 🚀 Features
@@ -21,7 +21,7 @@ Object Detection: YOLO (You Only Look Once)
 Web Framework: Streamlit
 ## 📂 Project Structure
 
-├── app/                     # Flask application
+├── app/                     # streamlit application
 │   ├── static/              # Static files (CSS, JavaScript)
 │   ├── templates/           # HTML templates
 │   └── app.py               # Main application file
